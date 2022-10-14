@@ -95,9 +95,27 @@ npm run start
 
 ## ❓ How to Contribute?
 
+There's two separate guidelines for how to contribute to the VLab Client. If you're simply looking to make some files changes to any one of the following files...
+
+- `README.md`
+- `CONTRIBUTING.md`
+- Or any documentation related file.
+
+Refer to the [Basic Contributing Guidelines](#-basic-contributing-guidelines). This will go over how to easily make changes without having to push any files locally.
+
+If you're looking for making changes to the website and resources to this project, please refer to the [Advanced Contributing Guidelines](#-advanced-contributing-guidelines).
+
 ## 📐 Standards and Guidelines
 
+### Common Guidelines
+
+- Follow AirBnb JavaScript syntax when implementing your changes. For more information, refer [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript) 
+
 ## 🗡️ Forking the Project
+
+First you will have to obtain your own copy of the VLab Client repository, also known as "forking". [Click here](https://github.com/kunalkeshan/SRMIST-VLab-Client/fork) to open the fork wizard or go to the top right of your screen and then click the fork button.
+
+![Forking the Project](./assets/contributing/forking.jpg)
 
 ## 🐰 Basic Contributing Guidelines
 
