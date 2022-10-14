@@ -115,7 +115,7 @@ If you're looking for making changes to the website and resources to this projec
 
 First you will have to obtain your own copy of the VLab Client repository, also known as "forking". [Click here](https://github.com/kunalkeshan/SRMIST-VLab-Client/fork) to open the fork wizard or go to the top right of your screen and then click the fork button.
 
-![Forking the Project](./assets/contributing/forking.jpg)
+![Forking the Project](./assets/contributing/forking-repo.jpg)
 
 ## 🐰 Basic Contributing Guidelines
 
